@@ -1,6 +1,7 @@
 """
 2. Modify print_symbol function to not print anything if symbol is "-".
 
+
 """
 
 
