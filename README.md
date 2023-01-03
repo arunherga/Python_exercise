@@ -1,2 +1,2 @@
 # Python_exercise
-Python exercise for beginers
+Python exercise for beginers.
